@@ -4,3 +4,10 @@
 div {
   background-color: aqua;
 }
+
+.para {
+  text-align: center;
+  color: red;
+  background-color: seashells;
+  border: 2px dotted black;
+}

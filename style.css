@@ -1,16 +1,29 @@
 #head {
   border: 2px solid black;
+  text-align: center;
   background-color: aqua;
 }
 .container {
-  border: 2px dotted black;
   margin-top: 30px;
-  height: 400px;
-  width: 500px;
 }
 
 .para {
-  background-color: aqua;
+  height: 200px;
+  width: 200px;
+  background-color: black;
   text-align: left;
-  color: red;
+  color: white;
+}
+
+.cont_para_is {
+  display: flex;
+  justify-content: end;
+}
+.para_is {
+  margin-top: 30px;
+  height: 200px;
+  width: 200px;
+  background-color: black;
+  text-align: left;
+  color: white;
 }

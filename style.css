@@ -1,13 +1,16 @@
 #head {
   border: 2px solid black;
-}
-div {
   background-color: aqua;
+}
+.container {
+  border: 2px dotted black;
+  margin-top: 30px;
+  height: 400px;
+  width: 500px;
 }
 
 .para {
-  text-align: center;
+  background-color: aqua;
+  text-align: left;
   color: red;
-  background-color: seashells;
-  border: 2px dotted black;
 }
